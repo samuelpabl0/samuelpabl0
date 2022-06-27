@@ -1,9 +1,4 @@
 ### Welcome 👋
-
- 
-  
-  
-  
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -17,11 +12,13 @@
   <div align="center">
   <a href="https://github.com/samuelpabl0/samuelpabl0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuelpabl0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpabl0&layout=compact&langs_count=7&theme=dark"/>
     </div>
    
   </div>
    <a href = "mailto:samuuelpablooliveiradasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   </div>
+   <a href = "mailto:https://www.linkedin.com/in/samuel-pablo-1392281b2/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   </div>
   
