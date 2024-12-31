@@ -6,7 +6,7 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Vue.js](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![PostreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
