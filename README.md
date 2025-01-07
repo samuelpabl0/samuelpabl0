@@ -8,7 +8,7 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![PostreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=Postgresql)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  Email= samuelpablooliveiradasilva@gmail.com 
   
 
   
