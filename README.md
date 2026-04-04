@@ -1,11 +1,11 @@
 <!-- Logo e LinkedIn -->
 <p align="center">
   <a href="https://www.linkedin.com/in/samuel-silva-1392281b2/?originalSubdomain=br">
-    <img src="matrix.svg" alt="Matrix Logo" width="120"/>
+    <img src="matrix.svg" alt="Matrix Logo" width="2500"/>
   </a>
 </p>
 
-<h1 align="center">Olá, eu sou Samuel Silva 👋</h1>
+<h1 align="center">Welcome </h1>
 <p align="center">Desenvolvedor Fullstack | Apaixonado por criar aplicações web modernas</p>
 
 <!-- Tecnologias -->
@@ -24,14 +24,9 @@
 <p align="center">
   <a href="mailto:samuelpablooliveiradasilva@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <a href="https://www.linkedin.com/in/samuel-pablo-silva-1392281b2/">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<!-- Estatísticas -->
-<h2 align="center">📊 Minhas Estatísticas GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelpabl0&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpabl0&layout=compact&langs_count=7&theme=dark" height="180"/>
 </p>
 
 <!-- Bio curta -->
