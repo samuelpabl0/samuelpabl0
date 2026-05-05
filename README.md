@@ -1,8 +1,13 @@
-<!-- Logo e LinkedIn -->
+<!-- Logo + Stats -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/samuel-silva-1392281b2/?originalSubdomain=br">
-    <img src="matrix.svg" alt="Matrix Logo" width="1200"/>
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=samuelpabl0&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelpabl0&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
 <h1 align="center">Samuel Silva</h1>
@@ -13,56 +18,58 @@
 
 ---
 
-<!-- Tecnologias -->
-<p align="center">
+## 💻 About Me
 
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" />
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" />
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+I’m a Fullstack Developer focused on building real production systems, including web applications, trading/commodity platforms and deployment pipelines.
 
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express" />
-
-  <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" />
-  <img src="https://img.shields.io/badge/-VPS%20Deployment-333333?style=flat&logo=serverfault" />
-
-</p>
-
----
-
-<!-- Sobre -->
-<h2 align="center">💻 About Me</h2>
-
-<p align="center">
-I’m a Fullstack Developer focused on building real production systems, including web applications, trading/commodity platforms and deployment pipelines.<br><br>
-
-Currently working with frontend and backend integration, Git version control, and VPS deployment (Nginx + Linux servers).<br><br>
+Currently working with frontend and backend integration, Git version control, and VPS deployment (Linux servers).
 
 I’m also building real-world projects involving international trade workflows and business automation systems.
-</p>
 
 ---
 
-<!-- O que eu faço -->
-<h2 align="center">🚀 What I Do</h2>
+## 🚀 What I Do
+
+- ✔ Build modern web applications (React / frontend systems)  
+- ✔ Develop backend APIs and business logic  
+- ✔ Deploy projects on VPS (Linux servers)  
+- ✔ Manage production updates using Git & GitHub  
+- ✔ Structure real-world platforms (e.g. trading/export systems)
+
+---
+
+## 🧠 Tech Stack
 
 <p align="center">
 
-✔ Build modern web applications (React / frontend systems) <br>
-✔ Develop backend APIs and business logic <br>
-✔ Deploy projects on VPS (Linux servers) <br>
-✔ Manage production updates using Git & GitHub <br>
-✔ Structure real-world platforms (e.g. trading/export systems)
+<img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" />
+<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+<img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript" />
+<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+
+<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
+<img src="https://img.shields.io/badge/-Express-333333?style=flat&logo=express" />
+
+<img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+<img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" />
+<img src="https://img.shields.io/badge/-VPS%20Deployment-333333?style=flat&logo=serverfault" />
 
 </p>
 
 ---
 
-<!-- Contato -->
-<h2 align="center">📫 Contact</h2>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samuelpabl0&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:samuelpablooliveiradasilva@gmail.com">
